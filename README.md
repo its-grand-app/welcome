@@ -2,9 +2,6 @@
   <img src="/banner.jpeg" alt="Grand App Banner" width="100%" />
 </p>
 
-
-[TOC]
-
 # 🪙 Grand — Own Your Wealth
 
 > Welcome to **Grand**, your gateway to the new era of wealth.  
